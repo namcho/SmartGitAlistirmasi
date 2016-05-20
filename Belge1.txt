@@ -2,3 +2,4 @@ Belge1 oluşturuldu.
 2. commit teyiz.
 3. commit teyiz.
 Tel numaram eklencek.
+Adresim eklencek.
