@@ -1,1 +1,2 @@
 Belge2 oluşturuldu.
+3. commit teyiz.
